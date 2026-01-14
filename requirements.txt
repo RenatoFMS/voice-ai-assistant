@@ -1,0 +1,4 @@
+openai
+gTTS
+IPython
+git+https://github.com/openai/whisper.git
